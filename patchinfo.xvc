@@ -20,7 +20,7 @@ Character\Player\Ani\BELMALE_COMBAT_STAND_NONE_NONE_01_00.ANI 88e8bbd1de3d050aab
 Character\Player\Ani\BELMALE_PEACE_STAND_NONE_NONE_01_00.ANI b87df4f687991824a0439b3357a02b2ef57e04d7
 DataTable\Character.edf e95bc7f6fe1cc8ec9552533a3eaf2715c1edb4f0
 DataTable\en-gb\Aua.dic c26dff3448e448c0b6464485b8f4dec3600a7977
-DataTable\en-gb\discord.ini c17e879452eaba43943388a34133a64ab4843a91
+DataTable\en-gb\discord.ini b5bd7d8e33c18af1f03e958101e11daaf1462061
 DataTable\en-gb\HVNLanguage.ini c6080560ee6c23ad3a408d7afb7bae19b97120c4
 DataTable\en-gb\Iua.dic b1dd131b5e6a2aec2bdc319b2c5025e5ca6555c2
 DataTable\en-gb\KeyMap_NKM.dat 18c780fd38a8c2b55df964bc3a9bfbd68dd5e245
@@ -34,7 +34,7 @@ DataTable\en-gb\NDMsgEvent.edf 81256bb91c89dc95a92beb5df2f33c6a3ab48c5b
 DataTable\en-gb\NDMsgMonster.edf c0b5de67414034b412c86966e5ba2f6e9af6ec7d
 DataTable\en-gb\NDQuest.edf 79d8c223c6b8264844d9c78601032b3bca63a61b
 DataTable\en-gb\NDSkillForce.edf b0e867b6415a7ecf7f331322ade523ed8a050a66
-DataTable\en-gb\NDStore.edf dc4fe3b132b719af77b3e473f582cbbfa1dd6c16
+DataTable\en-gb\NDStore.edf 3ea5d744ca06066931fd46466e768738db837a75
 DataTable\en-gb\resources.ini bf325ef27a6c1aa761a8d6bf0f147d97e2815ab1
 DataTable\EventShip.edf a8b680f0f60063b4db2d242ac2b8fe6e283af31e
 DataTable\font.ini be37e8799d370881dc635236678f263ef5a63898
@@ -50,7 +50,7 @@ DataTable\PlayerCharacter.edf a55f15b81f5d6120963a2d6f98c99ee32acdf5c9
 DataTable\Quest.edf 0b21421ff7fdc3a0175f26dcc3c7d8fe11387869
 DataTable\Resource.edf eaba804212ef23db787a7af1604519ea31cdfaaf
 DataTable\SkillForce.edf d804c61e021d373b6f465ed0e4a278c1da28cf20
-DataTable\Store.edf 9740afca036283c16e264bb3b130db565791e19c
+DataTable\Store.edf a9626f5c6ed8f647e260bf267137559784308d1a
 Map\Exile_Land\Exile_land.ebp 58c3e4ba4f984bc6121bc5324078593fdfe64a8f
 Map\Mountain_Beast\Mountain_Beast.ebp 151705b0680c8a1ef3ac835387ad35bd8de305d8
 Map\Platform01\Platform01.ebp 4ba329af8bb29a59dbcc48a6259d42c795a60d9a
