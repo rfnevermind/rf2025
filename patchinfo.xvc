@@ -153,7 +153,7 @@ DataTable\en-gb\Iua.dic b1dd131b5e6a2aec2bdc319b2c5025e5ca6555c2
 DataTable\en-gb\KeyMap_NKM.dat 18c780fd38a8c2b55df964bc3a9bfbd68dd5e245
 DataTable\en-gb\NDCharacter.edf c9bd2cf4afef4b3f294c5cfbf98ad86c1689852a
 DataTable\en-gb\NDEventShip.edf f08fb08d46501e8969cde883446ab3544d5b28d9
-DataTable\en-gb\NDItem.edf 03e9c6ed80ebf3e2c158df26391b5609212fb59f
+DataTable\en-gb\NDItem.edf 641366772098596d764d19d42de9192c73720adb
 DataTable\en-gb\NDItemCash.edf 9f541c2fc84a35cb60eeb5157615e9c53189b0b8
 DataTable\en-gb\NDLanguage.edf 9ac8e74e82df72e914f0baf399092eddb4618a88
 DataTable\en-gb\NDMap.edf 8f7ff76bdb14147c449f4adbc5275d61a965ad44
@@ -165,9 +165,9 @@ DataTable\en-gb\NDStore.edf 628318f7366ed65ec95b617b4c47dd80c1112766
 DataTable\en-gb\resources.ini bf325ef27a6c1aa761a8d6bf0f147d97e2815ab1
 DataTable\EventShip.edf a8b680f0f60063b4db2d242ac2b8fe6e283af31e
 DataTable\font.ini be37e8799d370881dc635236678f263ef5a63898
-DataTable\Item.edf 4601c929b293e49b2a20c4a85cb98e4aa3cdc272
+DataTable\Item.edf 805a0605197e52ddb56d7f3eeaf0df337ab7e2bd
 DataTable\ItemCash.edf 5bd9e424b6ced4ffc452c6358207a77af2dd4f3c
-DataTable\ItemCombine.edf d4fff816cbf974b1d9a3c93d1d0e5df75bbe7f7f
+DataTable\ItemCombine.edf 8a543ea12a8ee41b1b14869ab6b96e6a365f43d7
 DataTable\ItemPremium.edf f3b964c48de7b8da9d2c371d3e9d78bf501de3fe
 DataTable\ItemSetEffect.edf 4463b8f13b115c8f334f0ae2f05f16162de141b6
 DataTable\ItemTimer.edf f596d9b49df0a01877d1b0b46c278e5a1b209454
@@ -218,7 +218,7 @@ Snd\Damage\event\Pig\Pig_Waridle_00.wav 05d61a94dc0e3111127e9a55c4ce59fc7e1083a7
 Snd\waveList.spt a1e373dd4c3e8034a2cf84bf617e6f281f86a67d
 SpriteImage\ads\1.png de58d634ef2e24ed30808341713fc52e400ce143
 SpriteImage\ads\available.png 493b7f88e70475698388e11a3fe9444c1f60a478
-SpriteImage\ads\init.ini ea7eeb167195e47bccb4a1ca1f55fc193036a9b6
+SpriteImage\ads\init.ini 1725755f2e814172d06600ec66792a3d7ccf28eb
 SpriteImage\common\battlepass.spr c483bf815d6bf11731d2a048144c505b33ab14fa
 SpriteImage\common\guildskill.spr 16a2187025674a41974373b4f464b36495a6d137
 SpriteImage\common\hvn.spr e3130afa16830f08b67b3e6d43a5263ddf478605
