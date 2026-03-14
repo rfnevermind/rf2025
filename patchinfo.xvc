@@ -26,7 +26,7 @@ DataTable\en-gb\Iua.dic b1dd131b5e6a2aec2bdc319b2c5025e5ca6555c2
 DataTable\en-gb\KeyMap_NKM.dat 18c780fd38a8c2b55df964bc3a9bfbd68dd5e245
 DataTable\en-gb\NDCharacter.edf 826b3033ff36ae6d691cc4e3b6624645b0a5c548
 DataTable\en-gb\NDEventShip.edf f08fb08d46501e8969cde883446ab3544d5b28d9
-DataTable\en-gb\NDItem.edf 01cd746db48d9f829fe8536ea4484246e720349f
+DataTable\en-gb\NDItem.edf b27c516928248856401322f67cdf8e8f4c09bc32
 DataTable\en-gb\NDItemCash.edf cc14a2406b99c5a7e59f4fb451dd1e7d09979f17
 DataTable\en-gb\NDLanguage.edf f0617e54c61527f1a261d7e735f3898e420aa884
 DataTable\en-gb\NDMap.edf 9eb9b4bf233654d6ae0d05d3c5a92ab1859aae89
@@ -38,7 +38,7 @@ DataTable\en-gb\NDStore.edf a98746dbb58355473df7eb6d7cb2c384145350e1
 DataTable\en-gb\resources.ini bf325ef27a6c1aa761a8d6bf0f147d97e2815ab1
 DataTable\EventShip.edf a8b680f0f60063b4db2d242ac2b8fe6e283af31e
 DataTable\font.ini be37e8799d370881dc635236678f263ef5a63898
-DataTable\Item.edf ed51303e35f214d2655ca211f8e7ae58d1cddaaa
+DataTable\Item.edf ee1b43919662bfe1f1b2ac61a2606a03d803f77b
 DataTable\ItemCash.edf 19f3d122d49bee990f46281cd1e2010838fc3ec3
 DataTable\ItemCombine.edf dff9d78c2266fa4163df70d4534559dbcdff4d65
 DataTable\ItemPremium.edf f3b964c48de7b8da9d2c371d3e9d78bf501de3fe
@@ -72,7 +72,7 @@ SpriteImage\ads\init.ini b0bd37efe1d11282f5092293a5351e0fff0f70f0
 SpriteImage\common\battlepass.spr c3ff8472ea85d3a844a0840ea038ab06a83953ef
 SpriteImage\common\guildskill.spr 16a2187025674a41974373b4f464b36495a6d137
 SpriteImage\common\hvn.spr e3130afa16830f08b67b3e6d43a5263ddf478605
-SpriteImage\common\item.spr 2f3d01a047f1e490aafe6ae537ef5855edb75cb7
+SpriteImage\common\item.spr 27161f5cd688891216610df694bb17e6661e5c32
 SpriteImage\en-gb\common.spr d5c38108ecf5ef1332d1b7dabba632fd80b5e4aa
 SpriteImage\launcher.png 7d1a6c1085f1aa24e3909d12f6dab528a9b6dcb8
 System\lucon.ttf 3a21f868544500c690f8ac04dc6b05a7dfe94637
